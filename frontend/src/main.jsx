@@ -9,6 +9,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <ClerkProvider>
       <App />
     </ClerkProvider>
-   
   </React.StrictMode>,
 )
